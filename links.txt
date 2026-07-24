@@ -1,0 +1,16 @@
+Aplicativo Streamlit
+
+https://datathongrupo8paappsmagicos-axxixduzm73e5xmvgsyyhm.streamlit.app/
+
+Github
+
+https://github.com/daniellv87/datathon_grupo_8_passos_magicos/
+
+Notebook ETL
+https://github.com/daniellv87/datathon_grupo_8_passos_magicos/blob/main/Notebooks/Datathon_Passos_M%C3%A1gicos_ETL.ipynb
+
+Notebook EDA
+https://github.com/daniellv87/datathon_grupo_8_passos_magicos/blob/main/Notebooks/Datathon_Passos_M%C3%A1gicos_EDA.ipynb
+
+Notebook ML
+https://github.com/daniellv87/datathon_grupo_8_passos_magicos/blob/main/Notebooks/Datathon_Passos_M%C3%A1gicos_ML.ipynb
